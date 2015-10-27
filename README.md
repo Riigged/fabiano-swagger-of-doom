@@ -19,4 +19,6 @@ You are free to use this source as long as u credit this guys:
 - Nilly
 - sebastianfra12 for some more behaviors
 - Kieron for making 1 behavior
-Only credit me, Riigged, if you downloaded from my (this) github.
+
+#NOTE:
+credit me, Riigged, if you downloaded the source off this github, only because i should be adding features/more behaviors than current source, of my own soon.
