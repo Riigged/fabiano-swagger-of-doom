@@ -16,4 +16,4 @@ You are free to use this source as long as u credit this guys:
 - Nilly
 - sebastianfra12 for some more behaviors
 - Kieron for making 1 behavior
-- everyone else that have contributed to this project on mpgh or any other site
+- And I, Riigged, only if you downloaded from my github.
