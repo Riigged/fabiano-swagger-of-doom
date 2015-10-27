@@ -26,7 +26,7 @@ namespace wServer.logic
                         new SetAltTexture(0),
                         new TimedTransition(500, "Texture1")
                         )
-                        ),
+                        ), 
                         new Threshold(0.01,
                             new ItemLoot("Coral Juice", 0.3),
                             new ItemLoot("Sea Slurp Egg", 0.25),
